@@ -1,0 +1,3 @@
+# Kaggle_House_Prediction_MLProject
+This Kaggle’s competition is the housing prediction project, in which buildmodels and analyzes 79 characters related to house prices to predict the final prize of each home based on the house information of Ames, Lowa city dataset. Reasonable and accurate forecasts of house price have profound implications
+for goverments, companies and even consumers. Predicting the house price is beneficial for goverment to regulate markets avoiding gouging price as well as enabling real estate companis have a real knowledge of market. More importantly, it can facilitate consumers to buy house sagaciously.
